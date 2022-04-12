@@ -6,8 +6,12 @@
 [Homepage](https://tongchangD.github.io/) /
 [Github](https://github.com/tongchangD)
 
-后期加个简历，嘿嘿嘿
+![tongchangD's github stats](https://github-readme-stats.vercel.app/api?username=tongchangD&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongchangD&layout=compact)
+
+
+后期加个简历，嘿嘿嘿
 
 
 

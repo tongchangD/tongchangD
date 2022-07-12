@@ -8,7 +8,11 @@
 
 ![tongchangD's github stats](https://github-readme-stats.vercel.app/api?username=tongchangD&show_icons=true&theme=radical)
 
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=tongchangD&show_icons=true&theme=radical" > -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongchangD&layout=compact)
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongchangD&layout=compact" > -->
+
 
 ### Hi，很高兴遇见你 👋
 

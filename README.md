@@ -10,8 +10,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongchangD&layout=compact)
 
+### Hi，很高兴遇见你 👋
 
-后期加个简历，嘿嘿嘿
+- 🧡 专注于深度学习 Focusing on Deep Learning
+- 🔨 喜欢学习各类深度学习算法，`CV`和`NLP`项目都曾有过涉猎,并落地,现在从事图像处理相关
+- 🍬 想去西藏旅游
+
+后期可加个简历，嘿嘿嘿
 
 
 

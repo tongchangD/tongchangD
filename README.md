@@ -8,7 +8,7 @@
 
 ![tongchangD's github stats](https://github-readme-stats.vercel.app/api?username=tongchangD&show_icons=true&theme=radical)
 
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=tongchangD&show_icons=true&theme=radical" > -->
+<!-- <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=tongchangD&count_private=true&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" > -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongchangD&layout=compact)
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tongchangD&layout=compact" > -->

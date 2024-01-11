@@ -71,6 +71,10 @@
 
 <br/> 
 
+### Contributes 🧑‍💻
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tongchangD&theme=whatsapp-light&date_format=%5BY.%5Dn.j&mode=weekly&card_width=875)
 
 ### 累积浏览量统计 
 

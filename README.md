@@ -36,8 +36,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/PaddlePaddle/Paddle/develop/doc/imgs/logo.png" alt="paddle" height="70"  />   
 <img style="margin: 10px" src="https://raw.githubusercontent.com/onnx/onnx/main/docs/onnx-horizontal-color.png" alt="onnx" height="30" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/Tencent/ncnn/master/images/256-ncnn.png"  alt="ncnn" height="30"/>
-
 </div>
 
 </td><td valign="top" width="33%">
